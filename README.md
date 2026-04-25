@@ -53,15 +53,15 @@ Press `prefix + u` to open the popup.
 
 ## tmux Options
 
-| Option | Default | Description |
-| --- | --- | --- |
-| `@popup-template-key` | `u` | Key binding used to open the popup |
-| `@popup-template-profile` | `example` | Profile name to load |
-| `@popup-template-popup-width` | `80%` | Popup width |
-| `@popup-template-popup-height` | `60%` | Popup height |
-| `@popup-template-prompt` | `Select > ` | `fzf` prompt |
-| `@popup-template-action` | `stdout` | One of `stdout`, `clipboard`, `send-keys` |
-| `@popup-template-auto-clear-seconds` | `30` | Clipboard auto-clear timeout |
+| Option                               | Default     | Description                               |
+| ------------------------------------ | ----------- | ----------------------------------------- |
+| `@popup-template-key`                | `u`         | Key binding used to open the popup        |
+| `@popup-template-profile`            | `example`   | Profile name to load                      |
+| `@popup-template-popup-width`        | `80%`       | Popup width                               |
+| `@popup-template-popup-height`       | `60%`       | Popup height                              |
+| `@popup-template-prompt`             | `Select > ` | `fzf` prompt                              |
+| `@popup-template-action`             | `stdout`    | One of `stdout`, `clipboard`, `send-keys` |
+| `@popup-template-auto-clear-seconds` | `30`        | Clipboard auto-clear timeout              |
 
 ## Example Profile
 
